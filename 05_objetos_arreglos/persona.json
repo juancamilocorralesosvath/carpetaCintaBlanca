@@ -1,0 +1,23 @@
+{
+    "nombre": "Ricardo",
+    "direccion": "CDMX",
+    "telefono": "1234",
+    "edad": 22,
+  
+    "musica": { 
+        "metal": ["metallica", "Megadeth",],
+        "pop": ["k-pop", "hduehdeu"],
+        "blues": ["lightning hopkins", "BB King", "Albert King"],
+        "jazz": ["wes montgomery", "charlie parker", ]
+    },
+    "peliculas": { 
+        "comedia": { 
+            "adamSandler":["una luna de miel en familia", "click perdiendo el control"],
+            "benStiller": ["zoolander", "zoolander2"]
+
+        },
+        "drama": { 
+            "investigacion": "sherlock Holmes",
+            "disparos": "dimelo"
+        }
+    }

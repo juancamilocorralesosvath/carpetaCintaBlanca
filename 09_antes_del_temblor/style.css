@@ -1,0 +1,27 @@
+.contenedorGrande{ 
+    width: 1950px;
+    height: 4000px;
+    border: deeppink solid 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedorImagenyTitulo{ 
+
+    width: 60%;
+    height: 60%;
+    border: solid springgreen 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+}
+.powerfulTitle{ 
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200px;
+    color: red;
+}
+

@@ -1,0 +1,50 @@
+body{ 
+    background-image: url("https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-simple-green-logo-icon-24.png");
+}
+
+
+.container1{ 
+    height: 800px;
+}
+h1{ 
+
+    font-size: 100px;
+}
+.abajito{ 
+    color: black;
+}
+
+.contenedor-principal{ 
+    border: solid 2px rebeccapurple;
+
+    width: 1800px;
+    height: 1000px;
+}
+.my-btn{ 
+
+    height: 50px;
+    width: 300px;
+}
+
+.segunda-parte{ 
+
+    width: 100%;
+    height: 40%;
+    background-color: black;
+}
+
+h3{ 
+    color: white;
+}
+.logo{ 
+    height: 30%;
+    width: 30%;
+}
+.cuadro1{ 
+    border: solid 2px red;
+    width: 10%;
+}
+.fab{ 
+    color: rebeccapurple;
+    font-size: 200px;
+}

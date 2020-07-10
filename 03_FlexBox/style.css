@@ -1,0 +1,215 @@
+body{ 
+
+    border: 2px solid red;
+    height: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cuadrogrande1{ 
+
+  border: 2px solid black;
+  width: 700px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.cuadrogrande2{ 
+
+    border: 2px solid green; 
+    width: 700px;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;  
+  justify-content: space-between;
+}
+
+.hijo11{ 
+
+    border: 2px solid aqua;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: row;
+  align-items: center;  
+  justify-content: space-between;
+}
+
+.hijo12{ 
+
+    border: 2px solid aqua;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hijo13{ 
+
+    border: 2px solid aqua;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: row;
+  align-items: center;  
+  justify-content: space-between;
+}
+
+.hijo21{
+
+    border: blueviolet 2px solid;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.hijo22{
+
+    border: blueviolet 2px solid;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: row;
+  align-items: center;  
+  justify-content: space-between;
+    
+}
+.hijo23{
+
+    border: blueviolet 2px solid;
+    width: 100px;
+    height: 100px;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+    
+}
+
+.hijo111{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo112{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo113{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo121{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo122{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+.hijo123{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo131{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+.hijo132{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+.hijo133{ 
+
+    border: 2px solid red;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo211{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo212{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo213{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo221{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo222{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo223{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+
+.hijo231{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo232{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}
+.hijo233{ 
+
+    border: 2px solid chocolate;
+    width: 20px;
+    height: 20px;
+}

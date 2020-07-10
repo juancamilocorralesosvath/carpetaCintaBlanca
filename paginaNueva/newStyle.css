@@ -1,0 +1,53 @@
+*{ 
+
+    background-color: black;
+}
+
+h1{ 
+
+    text-align: center;
+    color: rgba(216, 22, 22, 0.575);
+}
+
+p{ 
+
+    font-size: larger;
+    text-align: justify;
+    color: rgb(3, 192, 19);
+}
+
+.centrado{ 
+
+    margin:10px auto;
+    display:block;
+    
+
+}
+
+p{ 
+
+    font-style: inherit;
+    color: blue;
+}
+ul{ 
+
+    color: cornsilk;
+}
+
+#paso1 { 
+
+  color: aliceblue;
+}
+
+#paso2{ 
+
+  color: blue;
+}
+#paso3{ 
+
+  color: aqua;
+}
+/* 
+ojo papu, el id es unico, solo se puede
+usar una vez ese id osea los cambios van a aplicarse
+solamente a ese objeto (esta bien decir objeto? ajaj) */

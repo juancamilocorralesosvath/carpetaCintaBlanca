@@ -1,0 +1,31 @@
+/* selector{ 
+
+    propiedad : valor;
+}
+asi es la sintaxis del programa
+ */
+
+ /* este asterisco solo sirve para comprobar que mi programa este funcioando correctamente */
+ *{ 
+
+    background-color: rgb(211, 117, 11) ;
+ }
+
+ img{ 
+
+    width: 200px;
+ }
+
+ a{ 
+
+    color: white;
+    text-decoration: none;
+ }
+
+ h1{ 
+
+    color: violet;
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+ }

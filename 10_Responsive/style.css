@@ -1,0 +1,25 @@
+.my-container{ 
+    border: solid red 2px;
+}
+.my-row{ 
+
+    border: solid blue 2px;
+}
+.my-container2{ 
+    height: 600px;
+    border: solid rgb(2, 2, 12) 2px;
+}
+.my-row2{
+    height: 80%; 
+    border: solid rgb(10, 75, 216) 2px;
+}
+
+.cuadro1{ 
+    background-color: blue;
+}
+.cuadro2{ 
+    background-color: rgb(11, 194, 36);
+}
+.cuadro3{ 
+    background-color: rgb(230, 216, 24);
+}
